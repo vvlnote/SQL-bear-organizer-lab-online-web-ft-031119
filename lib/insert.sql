@@ -3,3 +3,4 @@ INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Rowdy'
 INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 5, 'f', 'black','slowness',1);
 INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 3, 'm', 'brown','mild',1);
 INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 3, 'm', 'brown','mild',1);
+INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Melissa', 3, 'f', 'gray','mild',1);
