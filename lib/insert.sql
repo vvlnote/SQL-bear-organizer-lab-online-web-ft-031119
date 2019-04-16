@@ -1,1 +1,1 @@
-INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Mr.Chocolate', 3, 'm', 'dark brown','mild',true)
+INSERT INTO beers (name, age, gender, color, temperament, alive) VALUES ('Mr.Chocolate', 3, 'm', 'dark brown','mild',1)
